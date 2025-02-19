@@ -50,6 +50,10 @@ body{
 .greetings > span:nth-child(7){
     animation-delay: 1.4s;
 }
+.greetings > span:nth-child(7){
+    animation-delay: 1.6s;
+}
+
 .description{
     font-size: 1.5rem;
     margin-bottom: 20px;
